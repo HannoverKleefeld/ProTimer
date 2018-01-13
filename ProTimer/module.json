@@ -1,0 +1,11 @@
+{
+	"id": "{165092DF-XA00-4980-TIME-20180109XLIB}",
+	"name": "ProTimer",
+	"type": 3,
+	"vendor": "Xaver Bauer",
+	"aliases":["ProTimer 1.3"],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "TIMER"
+}
